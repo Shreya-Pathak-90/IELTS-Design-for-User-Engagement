@@ -1,3 +1,12 @@
+Prototype Demonstration
+
+A working prototype has been developed to visualize the proposed solution and user flow.
+
+👉 View Prototype:
+https://www.figma.com/proto/ki8k2goCRdQ69VDNmNhWk1/IELTS-Engagement-App
+
+The prototype showcases gamified engagement features including point-based scoring, leaderboard rankings, competitive challenges, and placement-driven incentives.
+
 This screen focuses on encouraging daily engagement through contests and performance tracking. It displays a “Today’s Contest” section where users can participate in a reading test and earn points within a limited time. The timer creates urgency, motivating users to take action immediately.Below this, users can view their personal performance, including number of contests played, accuracy percentage, and current rank. A graphical progress chart helps users visualize their improvement over time. This combination of real-time contests and performance tracking encourages consistency and builds competitive motivation.
 
 ![alt text](https://github.com/Shreya-Pathak-90/IELTS-Design-for-User-Engagement/blob/main/Screenshot%202026-03-29%20215241.png)
